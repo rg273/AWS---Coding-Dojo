@@ -12,12 +12,16 @@ Paso 3: en el mismo archivo de VS Code, usa comentarios para explicar en qué se
 
         //1_ String = caracteres o numeros, pero deben estar entre comillas 
             var miVariableDeCaracteres = "texto dummie 12345";
+
         //2_ Number = solo numeros y no deben ir con comillas
             var miVariableDeNumeros = 3.14;
+
         //3_ boolean = la VARIABLE puede tener un solo 1 valor, true o false (VERDADERO O FALSO)
             var miBooleano = true;
+
         //4_ undefined = significa que la variable no tiene valor
             var miUndefined;
+            
         //5_ null  = es lo mismo que undefined pero la diferencia es que este tipo de dato lo coloca el programador                
             var miVariableSinValor = null ;
 
